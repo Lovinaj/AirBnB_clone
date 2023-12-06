@@ -1,0 +1,1 @@
+This project contain a console for a clone of the AirBnB website using the Python Programming Language. It entails the SERVER SIDE (like  CONSOLE I.e operations are carried out from the command line interface, the DATABASE) and the CLIENT  SIDE(i.e html and css)  aspect of the website,
