@@ -1,1 +1,1 @@
-This is the web-static project 
+This is the web-static project
